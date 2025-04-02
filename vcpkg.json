@@ -1,0 +1,21 @@
+{
+  "name": "libmediacodec",
+  "version": "1.0.0",
+  "dependencies": [
+    {
+      "name": "ffmpeg",
+      "features": [
+        "avcodec",
+        "avformat",
+        "swresample",
+        "swscale",
+        "aom",
+        "x264",
+        "x265",
+        "opus",
+        "vpx",
+        "nvcodec"
+      ]
+    }
+  ]
+}
