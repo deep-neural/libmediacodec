@@ -1,23 +1,23 @@
 <h1 align="center">
-  <a href="https://libmediacodec.example"><img src="./.github/logo.jpg" alt="libMediaCodec" height="150px"></a>
+  <a href="https://github.com/deep-neural/libmediacodec"><img src="./.github/logo.jpg" alt="libMediaCodec" height="150px"></a>
   <br>
   libMediaCodec
   <br>
 </h1>
 <h4 align="center">An advanced C/C++ library for accelerated media encoding and decoding supporting modern codecs and GPU acceleration</h4>
 <p align="center">
-    <a href="https://libmediacodec.example"><img src="https://img.shields.io/badge/libMediaCodec-C/C++-blue.svg?longCache=true" alt="libMediaCodec" /></a>
+    <a href="https://github.com/deep-neural/libmediacodec"><img src="https://img.shields.io/badge/libMediaCodec-C/C++-blue.svg?longCache=true" alt="libMediaCodec" /></a>
     <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-5865F2.svg" alt="License: MIT" /></a>
     <br>
-    <a href="https://github.com/media-lib/libMediaCodec"><img src="https://img.shields.io/static/v1?label=Build&message=Documentation&color=brightgreen" /></a>
+    <a href="https://github.com/deep-neural/libmediacodec"><img src="https://img.shields.io/static/v1?label=Build&message=Documentation&color=brightgreen" /></a>
 </p>
 <br>
 
 ### New Release
 
-libMediaCodec v1.0.0 has been released! See the [release notes](https://github.com/media-lib/libMediaCodec/wiki/Release-libMediaCodec@v1.0.0) to learn about new features, enhancements, and breaking changes.
+libMediaCodec v1.0.0 has been released! See the [release notes](https://github.com/deep-neural/libmediacodec/) to learn about new features, enhancements, and breaking changes.
 
-If you aren’t ready to upgrade yet, check the [tags](https://github.com/media-lib/libMediaCodec/tags) for previous stable releases.
+If you aren’t ready to upgrade yet, check the [tags](https://github.com/deep-neural/libmediacodec/) for previous stable releases.
 
 We appreciate your feedback! Feel free to open GitHub issues or submit changes to stay updated in development and connect with the maintainers.
 
@@ -97,7 +97,7 @@ if(!success) {
 
 **[Example Applications](examples/README.md)** contain code samples demonstrating common use cases with libMediaCodec.
 
-**[API Documentation](https://libmediacodec.example/docs)** provides a comprehensive reference of our Public APIs.
+**[API Documentation](https://github.com/deep-neural/libmediacodec/docs)** provides a comprehensive reference of our Public APIs.
 
 Now go build something amazing! Here are some ideas to spark your creativity:
 * Accelerate media streaming services with optimized encoding and decoding.
@@ -108,7 +108,7 @@ Now go build something amazing! Here are some ideas to spark your creativity:
 
 ## Building
 
-See [BUILDING.md](https://github.com/media-lib/libMediaCodec/blob/master/BUILDING.md) for building instructions.
+See [BUILDING.md](https://github.com/deep-neural/libmediacodec/blob/master/BUILDING.md) for building instructions.
 
 ### Features
 
@@ -134,7 +134,7 @@ See [BUILDING.md](https://github.com/media-lib/libMediaCodec/blob/master/BUILDIN
 
 ### Contributing
 
-Check out the [contributing guide](https://github.com/media-lib/libMediaCodec/wiki/Contributing) to join the team of dedicated contributors making this project possible.
+Check out the [contributing guide](https://github.com/deep-neural/libmediacodec/wiki/Contributing) to join the team of dedicated contributors making this project possible.
 
 ### License
 
